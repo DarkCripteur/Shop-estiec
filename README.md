@@ -22,3 +22,4 @@ shop-esitec/
 ## Lancer le site
 
 Ouvrir `index.html` dans un navigateur.
+# Shop-estiec
